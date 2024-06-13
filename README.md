@@ -13,3 +13,4 @@
 
 ## Resources
 - [Blender Python API](https://docs.blender.org/api/current/index.html)
+- [fake-bpy-module](https://github.com/nutti/fake-bpy-module.git)
