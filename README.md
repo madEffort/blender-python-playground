@@ -14,3 +14,4 @@
 ## Resources
 - [Blender Python API](https://docs.blender.org/api/current/index.html)
 - [fake-bpy-module](https://github.com/nutti/fake-bpy-module.git)
+- [VScode와 Blender 연동하기](https://youtu.be/_0srGXAzBZE?si=MSVMgTV-BgDo_vVp)
